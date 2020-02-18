@@ -1,0 +1,31 @@
+Attribute,Word,Count
+Interior,seat,175
+Interior,interior,159
+Engine,engine,110
+Performance,power,89
+Body Style,suv,67
+Performance,speed,59
+Body Style,wagon,55
+Transmission,manual,53
+Engine,v6,51
+Transmission,transmission,56
+Performance,turbo,46
+Interior,leather,42
+Interior,trim,38
+Body Style,sedan,36
+Performance,hp,31
+Performance,performance,36
+Transmission,auto,36
+Body Style,pickup,25
+Transmission,automatic,28
+Engine,hybrid,23
+Performance,torque,20
+Interior,floor,22
+Engine,cylinder,15
+Body Style,coupe,13
+Engine,v8,14
+Engine,diesel,10
+Interior,backseat,10
+Interior,seatbelt,4
+Performance,zippy,4
+Body Style,2seater,3
